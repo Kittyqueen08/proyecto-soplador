@@ -1,0 +1,18 @@
+html, body {
+  margin-top: 30px;
+  margin-left: 230px;
+}
+
+.blowButton{
+  width:140px;
+  height: 40px;
+  margin-top: 30px ;
+  margin-left:1000 ;
+  background-color: #80deea;
+  background-size: cover;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  outline: none;
+}
